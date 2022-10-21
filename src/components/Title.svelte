@@ -1,0 +1,1 @@
+<div class="p-3 font-black text-purple-800 text-4xl"><slot/></div>

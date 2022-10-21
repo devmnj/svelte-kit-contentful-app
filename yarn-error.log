@@ -1,0 +1,59 @@
+Arguments: 
+  C:\Users\manoj\AppData\Local\Volta\tools\image\node\18.6.0\node.exe C:\Users\manoj\AppData\Local\Volta\tools\image\yarn\1.22.19\bin\yarn.js add date-fns
+
+PATH: 
+  C:\Users\manoj\AppData\Local\Volta\tools\image\npm\8.18.0\bin;C:\Users\manoj\AppData\Local\Volta\tools\image\yarn\1.22.19\bin;C:\Users\manoj\AppData\Local\Volta\tools\image\node\18.6.0;C:\Program Files\Volta\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:C:\Program Files\Volta\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:C:\Program Files\Volta\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:%PATH%;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\;C:\Users\manoj\AppData\Local\Volta\bin;C:\Users\manoj\AppData\Local\ActiveState\StateTool\release;C:\Users\manoj\AppData\Local\activestate\cache\bin;C:\Users\manoj\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Program Files\JetBrains\PyCharm 2020.1.2\bin;C:\Users\manoj\.poetry\bin;E:\packages\flutter_windows_2.8.1-stable\flutter\bin;C:\Users\manoj\flutter\bin;C:\Program Files\JetBrains\WebStorm 2020.2.3\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;C:\Users\manoj\.deno\bin;C:\Program Files\MongoDB\Server\4.4\bin\;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk\emulator;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Users\manoj\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\manoj\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\manoj\.dotnet\tools;C:;C:\Users\manoj\AppData\Local\;C:\Program Files\MongoDB\Server\4.4\;C:\Users\manoj\AppData\Local\Programs\VSCodium\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\manoj\.dotnet\tools
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.6.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'D:\Web Projects\Contentful\svelte-app-tw\node_modules\esbuild-windows-64\esbuild.exe'
+
+npm manifest: 
+  {
+  	"name": "svelte-app",
+  	"version": "0.0.1",
+  	"private": true,
+  	"scripts": {
+  		"dev": "vite dev",
+  		"build": "vite build",
+  		"preview": "vite preview",
+  		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
+  		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
+  		"test": "playwright test",
+  		"lint": "prettier --plugin-search-dir . --check . && eslint .",
+  		"format": "prettier --plugin-search-dir . --write ."
+  	},
+  	"devDependencies": {
+  		"@playwright/test": "^1.25.0",
+  		"@sveltejs/adapter-auto": "next",
+  		"@sveltejs/kit": "next",
+  		"autoprefixer": "^10.4.12",
+  		"eslint": "^8.16.0",
+  		"eslint-config-prettier": "^8.3.0",
+  		"eslint-plugin-svelte3": "^4.0.0",
+  		"postcss": "^8.4.17",
+  		"prettier": "^2.6.2",
+  		"prettier-plugin-svelte": "^2.7.0",
+  		"svelte": "^3.44.0",
+  		"svelte-check": "^2.7.1",
+  		"svelte-preprocess": "^4.10.7",
+  		"tailwindcss": "^3.1.8",
+  		"typescript": "^4.7.4",
+  		"vite": "^3.1.0"
+  	},
+  	"type": "module"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

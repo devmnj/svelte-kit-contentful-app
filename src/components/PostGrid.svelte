@@ -1,1 +1,3 @@
-<div class="sm:grid sm:gap-7 sm:grid-cols-2 lg:grid-cols-3 bg-yellow-300"><slot>Content Grid</slot></div>
+<div class="sm:grid sm:gap-7 sm:grid-cols-2 lg:grid-cols-3">
+<slot/>
+    </div>
